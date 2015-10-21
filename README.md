@@ -2,7 +2,7 @@
 
 Code created to show other developers how simple it is to run a query in ajax.
 
-# NEDDED
+# REQUIRED
 
 ```bash
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
