@@ -10,8 +10,7 @@ Code created to show other developers how simple it is to run a query in ajax.
 
 # USAGE
 
-Its simples, just add this code to our hrml.
-EX:
+It's simple, just add this code to your HTML.
 ```bash
 <script>
 /********************************************/
